@@ -1,4 +1,5 @@
-## Hi there 👋
+## 📫 How to reach me:
+https://www.linkedin.com/in/arno-dutra-053017151/
 
 <!--
 **arno-dutra/arno-dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
